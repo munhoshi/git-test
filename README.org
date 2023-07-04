@@ -1,0 +1,27 @@
+#+title: What if the README file is an .org file!?
+
+* Org Mode is awesome!
+You know, I love it so much that I might start using the Babel/Tangle/Exports/whatever (still learning!) to do everything lol.
+
+** Literate programming
+I'm very interested in the idea of self documenting, literate programming. I hope it's easy to integrate this stye with other people. I guess I need to find an Emacs community?
+* But do I want to abandon Neovim?
+** Every tool has its place
+OK, Neovim is awesome. I think I'll continue to use NV for lighter edits. For work, or bigger projects, I guess I'll use VS Code for now, although truthfully I'm not a big fan of it, but it does what it has to do.
+
+I think Emacs' place in my life and heart is organization, note taking, outlines and helping me to digitally sort out my mind. It's also a great journaling tool. However...
+** I probably would not use Emacs without Evil-Mode
+If Evil-Mode did not exist, I don't think I'd use this tool, since Vim keys have fundamentally changed the way I approach text editing and I really do not want to change it.
+
+Plus, GNU Emacs keybindings have way too many chords, like VS Code! Meanwhile the Vim Keys have awesome nemonics that make so much sense...
+** DOOM Emacs is also awesome
+*** How it relates to my love of digital minimalism
+Let's be honest, DOOM Emacs is probably not what one would call minimalistic, since it comes pre-loaded with a lot of things that I don't even know (that I need) yet lol. But it's a comfy environment and I think I can get used to this due to the value it offers, especially org-mode.
+
+*** While I may align with certain frameworks, I am FREE ^_^
+Sometimes, sticking exclusively to one ideology makes people blind to all the amazing possibilities life offers, and I do not want to become a narrow-minded person.
+
+So I'll continue to give DOOM Emacs a honest, conscientious try. In any case, I'm an Org Mode convert, and it only took five days!
+
+* Give me an .org file and I will write you a journal page
+This was supposed to be a little test file for a Git course I'm doing..............
