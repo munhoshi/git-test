@@ -24,4 +24,6 @@ Sometimes, sticking exclusively to one ideology makes people blind to all the am
 So I'll continue to give DOOM Emacs a honest, conscientious try. In any case, I'm an Org Mode convert, and it only took five days!
 
 * Give me an .org file and I will write you a journal page
-This was supposed to be a little test file for a Git course I'm doing... Why am I so verbose 🙈
+This was supposed to be a little test file for a Git course I'm doing... Why am I so verbose 🙈 maybe it's because writing helps me process my feelings.
+
+✨
